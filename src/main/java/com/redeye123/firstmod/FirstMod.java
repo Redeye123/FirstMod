@@ -1,6 +1,7 @@
 package com.redeye123.firstmod;
 
 import com.redeye123.firstmod.blocks.BlockFirstOre;
+import com.redeye123.firstmod.blocks.worldgeneration.FirstOreWorld;
 import com.redeye123.firstmod.help.Reference;
 import com.redeye123.firstmod.help.RegisterHelper;
 import com.redeye123.firstmod.items.*;
@@ -24,6 +25,10 @@ public class FirstMod
 
     public static Block FirstOre;
     public static Item FirstOreGem;
+
+    //WorldGen
+
+    public static FirstOreWorld worldgenore = new FirstOreWorld();
 
     //Tools
     public static Item firstore_pickaxe;
@@ -148,6 +153,8 @@ public class FirstMod
                         "X X",
                         'X', FirstOreGem, 'Y', Items.diamond_boots
                 });
+
+        GameRegistry.registerWorldGenerator(worldgenore, 1);
     }
 
     @Mod.EventHandler
