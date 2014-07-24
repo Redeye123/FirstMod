@@ -1,0 +1,85 @@
+[18:23:08] [main/INFO]: Setting user: ForgeDevName
+[18:23:10] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:23:17] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[18:23:18] [Sound Library Loader/INFO]: Sound engine started
+[18:23:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:23:22] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:23:22] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[18:23:22] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:23:22] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:23:23] [Sound Library Loader/INFO]: Sound engine started
+[18:23:30] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:23:30] [Server thread/INFO]: Generating keypair
+[18:23:31] [Server thread/INFO]: Preparing start region for level 0
+[18:23:32] [Server thread/INFO]: Preparing spawn area: 20%
+[18:23:33] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:23:33] [Server thread/INFO]: ForgeDevName[local:E:27b6b08c] logged in with entity id 300 at (152.0165495178489, 67.0, 244.7196238444905)
+[18:23:33] [Server thread/INFO]: ForgeDevName joined the game
+[18:23:34] [Server thread/INFO]: Saving and pausing game...
+[18:23:34] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:23:34] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:23:34] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:23:39] [Server thread/INFO]: [ForgeDevName: Set the time to 1]
+[18:23:39] [Client thread/INFO]: [CHAT] Set the time to 1
+[18:24:33] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
+[18:24:33] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[18:24:34] [Server thread/INFO]: [ForgeDevName: Set own game mode to Survival Mode]
+[18:24:34] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[18:27:15] [Server thread/INFO]: Saving and pausing game...
+[18:27:15] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:27:15] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:27:15] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:27:16] [Server thread/INFO]: Stopping server
+[18:27:16] [Server thread/INFO]: Saving players
+[18:27:16] [Server thread/INFO]: Saving worlds
+[18:27:16] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:27:16] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:27:16] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:28:23] [main/INFO]: Setting user: ForgeDevName
+[18:28:25] [Client thread/INFO]: LWJGL Version: 2.9.1
+[18:28:34] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[18:28:35] [Sound Library Loader/INFO]: Sound engine started
+[18:28:40] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:28:40] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:28:40] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:First Mod
+[18:28:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[18:28:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[18:28:42] [Sound Library Loader/INFO]: Sound engine started
+[18:28:48] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[18:28:48] [Server thread/INFO]: Generating keypair
+[18:28:48] [Server thread/INFO]: Preparing start region for level 0
+[18:28:49] [Server thread/INFO]: Preparing spawn area: 37%
+[18:28:50] [Server thread/INFO]: Changing view distance to 12, from 10
+[18:28:51] [Server thread/INFO]: ForgeDevName[local:E:cb432c34] logged in with entity id 326 at (151.83343900297572, 70.0155550727022, 288.5977677937601)
+[18:28:51] [Server thread/INFO]: ForgeDevName joined the game
+[18:29:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[18:29:17] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:step.anvil
+[18:29:44] [Client thread/INFO]: [CHAT] /gamemode, /gamerule
+[18:29:46] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[18:29:46] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[18:29:47] [Server thread/INFO]: [ForgeDevName: Set own game mode to Creative Mode]
+[18:29:47] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[18:32:06] [Client thread/INFO]: [CHAT] survival, creative, adventure
+[18:32:07] [Server thread/INFO]: [ForgeDevName: Set own game mode to Survival Mode]
+[18:32:07] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[18:33:53] [Server thread/INFO]: ForgeDevName has just earned the achievement [Time to Farm!]
+[18:33:53] [Client thread/INFO]: [CHAT] ForgeDevName has just earned the achievement [Time to Farm!]
+[18:34:06] [Server thread/INFO]: ForgeDevName has just earned the achievement [Time to Strike!]
+[18:34:06] [Client thread/INFO]: [CHAT] ForgeDevName has just earned the achievement [Time to Strike!]
+[18:34:57] [Server thread/INFO]: Saving and pausing game...
+[18:34:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:34:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:34:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:34:57] [Server thread/INFO]: Stopping server
+[18:34:57] [Server thread/INFO]: Saving players
+[18:34:57] [Server thread/INFO]: Saving worlds
+[18:34:57] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[18:34:57] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[18:34:57] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[18:34:59] [Client thread/INFO]: Stopping!
+[18:35:54] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[18:36:03] [Server thread/INFO]: Loading properties
+[18:36:03] [Server thread/WARN]: server.properties does not exist
+[18:36:03] [Server thread/INFO]: Generating new properties file
+[18:36:03] [Server thread/WARN]: Failed to load eula.txt
+[18:36:03] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.

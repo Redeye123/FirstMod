@@ -1,0 +1,17 @@
+[
+{
+    "modid": "FirstMod",
+    "name": "First Mod",
+    "description": "I'm Gonna Try to add an item to the game",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [ "Redeye123" ],
+    "credits": "Created by Redeye123",
+    "logoFile": "",
+    "screenshots": [],
+    "parent": "",
+    "dependencies": [ ]
+}
+]
